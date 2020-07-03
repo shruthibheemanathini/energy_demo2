@@ -62,7 +62,7 @@
     height:75px;
     margin: 10px 0 0;
     background: url("../images/logo.png") no-repeat;
-    background-position: center;
+    background-position:top;
     background-size: contain;
     float:left;
 }
