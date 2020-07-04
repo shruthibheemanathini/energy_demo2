@@ -286,7 +286,7 @@
 }
 
 .promo--side .promo__image {
-    background-size: 200% 100%;
+    background-size: 100% 60%;
 }
 
 .promo--side .promo__link:hover .promo__image,
