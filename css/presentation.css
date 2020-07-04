@@ -62,7 +62,7 @@
     height:75px;
     margin: 10px 0 0;
     background: url("../images/logo.png") no-repeat;
-    background-position:center;
+    background-position: center;
     background-size: contain;
     float:left;
 }
@@ -178,7 +178,7 @@
 
 .cta__button {
     color: #fff;
-    background-color: #0072b8;
+    background-color:rosybrown;
     border: 0;
     font-family: Arial;
     font-size: 28px;
